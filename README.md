@@ -1,5 +1,6 @@
 # rest_stack
 # Run the FastApi server
+* cd app
 * uvicorn  main:app --reload
 
 # Download and install goreplay to store http trafic 
